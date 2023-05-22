@@ -6,4 +6,4 @@ suc = num + 1
 ant = num - 1
 print('O sucessor é {}!'.format(suc))
 print('O Antecessor é {}!'.format(ant))
-print('Eae Cambada')
+print('Eae Cambada Atualizada!')
