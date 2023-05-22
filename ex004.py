@@ -1,0 +1,16 @@
+algo = input('Digite algo:')
+print('O termo primitivo desse valor é ',type(algo))
+
+print('É um numero?',algo.isnumeric())
+print('É alpha-numerico?',algo.isalnum())
+print('É alfabético?',algo.isalpha())
+print('É ascii?',algo.isascii())
+print('É digit?',algo.isdigit())
+print('É decimal?',algo.isdecimal())
+print('É identifier?',algo.isidentifier())
+print('Esta em minúsculas?',algo.islower())
+print('É printable?',algo.isprintable())
+print('Só tem espaço?',algo.isspace())
+print('Esta captalizada (A primeira letra em maiusculo)?',algo.istitle())
+print('Esta em maiúscula?',algo.isupper())
+
