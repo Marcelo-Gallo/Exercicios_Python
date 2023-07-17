@@ -1,0 +1,23 @@
+
+Colinhas de comandos:
+
+Fatiamento de String;
+Análise:
+    len();
+    count();
+    find();
+    in;
+Transformação:
+    replace();
+    upper();
+    lower();
+    capitalize();
+    title();
+    strip();
+    rtrip();
+    lstrip();
+Divisão:
+    split();
+Junção:
+    join();
+
